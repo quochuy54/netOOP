@@ -1,0 +1,11 @@
+D:\Documents\Kì 4\DotNet\BaiTapTongHop\BaiTapTongHop\bin\Debug\BaiTapTongHop.exe.config
+D:\Documents\Kì 4\DotNet\BaiTapTongHop\BaiTapTongHop\bin\Debug\BaiTapTongHop.exe
+D:\Documents\Kì 4\DotNet\BaiTapTongHop\BaiTapTongHop\bin\Debug\BaiTapTongHop.pdb
+D:\Documents\Kì 4\DotNet\BaiTapTongHop\BaiTapTongHop\obj\Debug\BaiTapTongHop.csprojAssemblyReference.cache
+D:\Documents\Kì 4\DotNet\BaiTapTongHop\BaiTapTongHop\obj\Debug\BaiTapTongHop.Form1.resources
+D:\Documents\Kì 4\DotNet\BaiTapTongHop\BaiTapTongHop\obj\Debug\BaiTapTongHop.Form2.resources
+D:\Documents\Kì 4\DotNet\BaiTapTongHop\BaiTapTongHop\obj\Debug\BaiTapTongHop.Properties.Resources.resources
+D:\Documents\Kì 4\DotNet\BaiTapTongHop\BaiTapTongHop\obj\Debug\BaiTapTongHop.csproj.GenerateResource.cache
+D:\Documents\Kì 4\DotNet\BaiTapTongHop\BaiTapTongHop\obj\Debug\BaiTapTongHop.csproj.CoreCompileInputs.cache
+D:\Documents\Kì 4\DotNet\BaiTapTongHop\BaiTapTongHop\obj\Debug\BaiTapTongHop.exe
+D:\Documents\Kì 4\DotNet\BaiTapTongHop\BaiTapTongHop\obj\Debug\BaiTapTongHop.pdb
