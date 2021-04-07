@@ -111,5 +111,7 @@ namespace BaiTapTongHop
             row8["ClassID"] = s.ID_Lop;
             DTSV.Rows.Add(row8);
         }
+
+         
     }
 }

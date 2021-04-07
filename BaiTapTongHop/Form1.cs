@@ -67,8 +67,8 @@ namespace BaiTapTongHop
 
         private void Addbutton_Click(object sender, EventArgs e)
         {
-            
-            Form2 f2 = new Form2();
+ 
+            Form2 f2 = new Form2(null);
             f2.d = new Form2.Mydel(Show);
             f2.Show();
         }

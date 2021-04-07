@@ -15,9 +15,10 @@ namespace BaiTapTongHop
 
         public delegate void Mydel(int s, string sv);
         public Mydel d { get; set; }
-        public Form2()
+        public Form2(string m)
         {
             InitializeComponent();
+            string MSSV = m;
             SetCBB();
         }
 
@@ -35,8 +36,7 @@ namespace BaiTapTongHop
         }
 
         public void AddSV()
-        {
-            
+        { 
             string MSSV1 = txtMSSV.Text;
             string Name1 = txtName.Text;
             bool Gender1 = rbM.Checked;
@@ -53,7 +53,9 @@ namespace BaiTapTongHop
 
         private void button1_Click(object sender, EventArgs e)
         {
+            if(CSDL_OOP.Instance.Excute(MSSV))
             AddSV();
+
             d(0, null);
         }
     }

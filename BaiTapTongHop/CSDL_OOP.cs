@@ -102,5 +102,18 @@ namespace BaiTapTongHop
         {          
               CSDL.Instance.AddDataRow(sv);       
         }
+
+        public bool Excute(string MSSV)
+        {
+            bool check = true;
+            foreach (SV i in GetALLSV())
+            {
+                if(i.MSSV == MSSV)
+                {
+                    check = false;
+                }    
+            }
+            return check;
+        }
     }
 }
